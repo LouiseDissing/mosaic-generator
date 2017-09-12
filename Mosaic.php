@@ -12,7 +12,7 @@ class Mosaic {
         'pwd'      => 'password',
         'db_name'  => 'mosaic'
     );
-
+/*..*/
     private $db;
     private $input;
     private $cell   = array();
